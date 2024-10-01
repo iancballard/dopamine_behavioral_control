@@ -1,0 +1,4 @@
+README for A Dopaminergic Basis of Behavioral Control
+model_based_RT-Paper-FittingDetails.ipynb performs the reinforcement learning model fitting
+model_based_RT.ipynb generates Figures 1-3
+brain_connectivity.ipynb generates Figure 4
