@@ -20,7 +20,7 @@ Ipyparallel
 It may be necessary to install the specific versions as described in requirements.txt.
 
 Demo/Instructions
-The data required to run the files are included in repository. Execute the cells sequentially.
+The data required to run the files are included in repository. Execute the cells sequentially. Figures and statistical results in notebooks are expected to be reproduced exactly.
 
 Description of Files
 
